@@ -1,11 +1,16 @@
 # Welcome to Nate Stern's GitHub Page
 
+
 ## *Current Positions*
+
 **Research Scientist -- Amway Innovation & Science**
+
 **Chair -- West Michigan Chapter of the American Chemical Society**
 
 ## *Education*
+
 **B.S. Chemistry** - GVSU Class of 2008
+
 **M.S. Applied Computer Science** - Current Student
 
 ### Professional Skills

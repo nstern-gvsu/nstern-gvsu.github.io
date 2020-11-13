@@ -1,4 +1,3 @@
-## Welcome to Nate Stern's GitHub Page
 
 ## *Current Positions*
 
